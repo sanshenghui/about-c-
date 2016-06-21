@@ -1,5 +1,4 @@
-# about-c-
+# c++语法
 Some basic rules about c++
 
 
-c++语法
